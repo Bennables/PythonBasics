@@ -4,4 +4,4 @@ class randomizer:
         pass
 
     def randomNum(self):
-        return random.randint(0,50)
+        return random.randint(0,5)
